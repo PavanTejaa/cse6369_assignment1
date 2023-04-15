@@ -74,12 +74,21 @@ class PGPolicy(nn.Module):
         super(PGPolicy, self).__init__()
         # TODO: Define the policy net
         # HINT: You can use nn.Sequential to set up a 2 layer feedforward neural network.
-        self.policy_net = ???
+        # Initializing the feed forward neural network with one input layer, one hidden layer, one output layer and ending with softman function.
+        self.policy_net = nn.Sequential(
+            nn.Linear(input_size, hidden_dim),
+            nn.ReLU(),
+            nn.Linear(hidden_dim, output_size),
+            nn.Softmax(dim=1)
+        )
 
     def forward(self, obs):
         # TODO: Forward pass of policy net
         # HINT: (use Categorical from torch.distributions to draw samples and log-prob from model output)
-        ???
+        probabilities = self.policy_net(obs)
+        distribution = Categorical(probabilities)
+        action_index = distribution.sample()
+        log_prob = distribution.log_prob(action_index)
         return action_index, log_prob
 
 
