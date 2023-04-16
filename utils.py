@@ -54,8 +54,14 @@ def apply_discount(raw_reward, gamma=0.99):
 
 
 # Util function to apply reward-return (cumulative reward) on a list of instant-reward (from eq 6)
+# def apply_return(raw_reward):
+#     # Compute r_reward (as a list) from raw_reward
+#     r_reward = [np.sum(raw_reward) for _ in raw_reward]
+#     return torch.tensor(r_reward, dtype=torch.float32, device=get_device())
+
 def apply_return(raw_reward):
     # Compute r_reward (as a list) from raw_reward
-    r_reward = [np.sum(raw_reward) for _ in raw_reward]
-    return torch.tensor(r_reward, dtype=torch.float32, device=get_device())
-
+    r_reward = 0
+    for r in raw_reward:
+        r_reward+=r
+    return r_reward
