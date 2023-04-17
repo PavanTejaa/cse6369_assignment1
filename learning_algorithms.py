@@ -86,7 +86,6 @@ class PGTrainer:
     def generate_video(self, max_frame=1000):
         # Generating the video 50 times with random initial states and saving them in folder structure according to the trails
         print('MAX FRAME:', max_frame)
-        i = 0
         for i in range(20):
             self.env = gym.make(self.params['env_name'], render_mode='rgb_array_list')
             obs, _ = self.env.reset()
@@ -95,8 +94,6 @@ class PGTrainer:
                 obs, reward, terminated, truncated, info = self.env.step(self.agent.action_space[action_idx.item()])
                 #print('Action Taken:', action_idx.item(),'& Reward: ', reward)
                 if terminated or truncated:
-                    i+=1
-                    print('TERMINATED '+str(i))
                     break
             save_video(frames=self.env.render(), video_folder=self.params['env_name'][:-3]+'/'+self.params['exp_name'][-2:], name_prefix=(self.params['exp_name'])+'_video'+str(i),fps=self.env.metadata['render_fps'], step_starting_index=1, episode_index=1)
 
