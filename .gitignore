@@ -1,0 +1,472 @@
+BoxPlot.png
+CartPole_Learning_Curve_Comparison.png
+CartPole_v1_t0.pkl
+CartPole_v1_t1.pkl
+CartPole_v1_t2.pkl
+LunarLand_Learning_Curve_Comparison.png
+LunarLand_v2_t0.pkl
+LunarLand_v2_t1.pkl
+LunarLand_v2_t2.pkl
+my_exp.pkl
+SeedComparison_T0.png
+SeedComparison_T1.png
+SeedComparison_T2.png
+__pycache__/learning_algorithms.cpython-39.pyc
+__pycache__/utils.cpython-39.pyc
+Backup/.DS_Store
+Backup/CART POLE/.DS_Store
+Backup/CART POLE/CartPole/.DS_Store
+Backup/CART POLE/CartPole/rl-video-episode-0.mp4
+Backup/CART POLE/CartPole/rl-video-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video0-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video1-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video2-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video3-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video4-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video5-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video6-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video7-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video8-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video9-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video10-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video11-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video12-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video13-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video14-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video15-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video16-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video17-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video18-episode-1.mp4
+Backup/CART POLE/CartPole/t0/CartPole_v1_t0_video19-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video0-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video1-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video2-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video3-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video4-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video5-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video6-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video7-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video8-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video9-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video10-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video11-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video12-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video13-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video14-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video15-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video16-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video17-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video18-episode-1.mp4
+Backup/CART POLE/CartPole/t1/CartPole_v1_t1_video19-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video0-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video1-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video2-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video3-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video4-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video5-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video6-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video7-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video8-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video9-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video10-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video11-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video12-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video13-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video14-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video15-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video16-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video17-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video18-episode-1.mp4
+Backup/CART POLE/CartPole/t2/CartPole_v1_t2_video19-episode-1.mp4
+Backup/LUNAR LAND/.DS_Store
+Backup/LUNAR LAND/LunarLand_v2_t0_video0-episode-1.mp4
+Backup/LUNAR LAND/LunarLand_v2_t0_video1-episode-1.mp4
+Backup/LUNAR LAND/LunarLand_v2_t0_video2-episode-1.mp4
+Backup/LUNAR LAND/LunarLand_v2_t0_video3-episode-1.mp4
+Backup/LUNAR LAND/LunarLand_v2_t0_video4-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/.DS_Store
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video0-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video1-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video2-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video3-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video4-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video5-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video6-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video7-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video8-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video9-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video10-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video11-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video12-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video13-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video14-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video15-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video16-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video17-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video18-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video19-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video20-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video21-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video22-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video23-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video24-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video25-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video26-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video27-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video28-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video29-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video30-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video31-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video32-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video33-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video34-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video35-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video36-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video37-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video38-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video39-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video40-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video41-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video42-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video43-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video44-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video45-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video46-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video47-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video48-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t0/LunarLand_v2_t0_video49-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video0-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video1-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video2-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video3-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video4-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video5-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video6-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video7-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video8-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video9-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video10-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video11-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video12-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video13-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video14-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video15-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video16-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video17-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video18-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video19-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video20-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video21-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video22-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video23-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video24-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video25-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video26-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video27-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video28-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video29-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video30-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video31-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video32-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video33-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video34-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video35-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video36-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video37-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video38-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video39-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video40-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video41-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video42-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video43-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video44-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video45-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video46-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video47-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video48-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t1/LunarLand_v2_t1_video49-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video0-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video1-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video2-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video3-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video4-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video5-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video6-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video7-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video8-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video9-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video10-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video11-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video12-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video13-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video14-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video15-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video16-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video17-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video18-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video19-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video20-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video21-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video22-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video23-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video24-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video25-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video26-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video27-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video28-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video29-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video30-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video31-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video32-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video33-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video34-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video35-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video36-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video37-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video38-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video39-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video40-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video41-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video42-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video43-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video44-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video45-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video46-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video47-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video48-episode-1.mp4
+Backup/LUNAR LAND/LunarLander/t2/LunarLand_v2_t2_video49-episode-1.mp4
+Backup/LUNAR LAND/t1/rl-video-episode-0.mp4
+Backup/LUNAR LAND/t1/rl-video-episode-1.mp4
+CartPole/.DS_Store
+CartPole/rl-video-episode-0.mp4
+CartPole/rl-video-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video0-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video1-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video2-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video3-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video4-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video5-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video6-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video7-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video8-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video9-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video10-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video11-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video12-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video13-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video14-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video15-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video16-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video17-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video18-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video19-episode-1.mp4
+CartPole/t0/CartPole_v1_t0_video20-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video0-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video1-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video2-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video3-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video4-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video5-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video6-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video7-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video8-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video9-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video10-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video11-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video12-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video13-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video14-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video15-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video16-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video17-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video18-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video19-episode-1.mp4
+CartPole/t1/CartPole_v1_t1_video20-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video0-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video1-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video2-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video3-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video4-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video5-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video6-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video7-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video8-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video9-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video10-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video11-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video12-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video13-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video14-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video15-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video16-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video17-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video18-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video19-episode-1.mp4
+CartPole/t2/CartPole_v1_t2_video20-episode-1.mp4
+LunarLander/.DS_Store
+LunarLander/t0/LunarLand_v2_t0_video0-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video1-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video2-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video3-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video4-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video5-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video6-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video7-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video8-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video9-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video10-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video11-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video12-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video13-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video14-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video15-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video16-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video17-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video18-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video19-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video20-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video21-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video22-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video23-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video24-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video25-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video26-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video27-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video28-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video29-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video30-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video31-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video32-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video33-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video34-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video35-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video36-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video37-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video38-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video39-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video40-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video41-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video42-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video43-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video44-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video45-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video46-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video47-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video48-episode-1.mp4
+LunarLander/t0/LunarLand_v2_t0_video49-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video0-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video1-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video2-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video3-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video4-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video5-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video6-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video7-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video8-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video9-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video10-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video11-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video12-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video13-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video14-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video15-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video16-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video17-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video18-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video19-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video20-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video21-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video22-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video23-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video24-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video25-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video26-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video27-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video28-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video29-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video30-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video31-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video32-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video33-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video34-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video35-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video36-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video37-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video38-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video39-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video40-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video41-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video42-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video43-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video44-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video45-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video46-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video47-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video48-episode-1.mp4
+LunarLander/t1/LunarLand_v2_t1_video49-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video0-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video1-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video2-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video3-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video4-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video5-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video6-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video7-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video8-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video9-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video10-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video11-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video12-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video13-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video14-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video15-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video16-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video17-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video18-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video19-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video20-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video21-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video22-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video23-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video24-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video25-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video26-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video27-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video28-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video29-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video30-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video31-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video32-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video33-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video34-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video35-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video36-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video37-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video38-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video39-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video40-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video41-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video42-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video43-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video44-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video45-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video46-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video47-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video48-episode-1.mp4
+LunarLander/t2/LunarLand_v2_t2_video49-episode-1.mp4
+Seeds/.DS_Store
+Seeds/CartPole_v1_t0_seed1.pkl
+Seeds/CartPole_v1_t0_seed2.pkl
+Seeds/CartPole_v1_t0_seed3.pkl
+Seeds/CartPole_v1_t0_seed4.pkl
+Seeds/CartPole_v1_t0_seed5.pkl
+Seeds/CartPole_v1_t1_seed1.pkl
+Seeds/CartPole_v1_t1_seed2.pkl
+Seeds/CartPole_v1_t1_seed3.pkl
+Seeds/CartPole_v1_t1_seed4.pkl
+Seeds/CartPole_v1_t1_seed5.pkl
+Seeds/CartPole_v1_t2_seed1.pkl
+Seeds/CartPole_v1_t2_seed2.pkl
+Seeds/CartPole_v1_t2_seed3.pkl
+Seeds/CartPole_v1_t2_seed4.pkl
+Seeds/CartPole_v1_t2_seed5.pkl
